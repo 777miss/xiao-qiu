@@ -1,0 +1,23 @@
+{
+    "name": "xiaoqiu",
+    "version": "2.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "combine-async-error": "^0.2.0",
+        "images": "^3.2.4",
+        "mysql": "^2.18.1",
+        "oicq": "^1.13.1",
+        "protobufjs": "^7.0.0",
+        "request": "^2.88.2",
+        "superagent": "^8.0.0"
+    },
+    "devDependencies": {}
+}

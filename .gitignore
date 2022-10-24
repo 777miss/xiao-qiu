@@ -1,0 +1,5 @@
+# 忽略所有node_modules文件夹
+node_modules/
+# 仅忽略项目根目录下的xiaoqiu文件夹
+/xiaoqiu
+/lib/user
