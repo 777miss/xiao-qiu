@@ -9,7 +9,7 @@
 克隆至本地
 
 ```javascript
-git clone https://github.com/FuncJin/xiao-qiu.git
+git clone https://github.com/777miss/xiao-qiu.git
 ```
 
 在根目录`/xiao-qiu`中安装其声明文件
