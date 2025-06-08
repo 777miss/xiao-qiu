@@ -117,4 +117,3 @@ node app
 1. 在`xiao-qiu/database/forms/interface.ts`中新增一个指令名称
 2. 在`xiao-qiu/eventHandle/fn.ts`中引入新指令
 3. 确保数据库中`switch_commands`中该指令为开启状态，否则不会被触发
-4. [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
